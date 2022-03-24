@@ -1,0 +1,7 @@
+C:\Users\muhar\source\repos\Ankatask array\Ankatask array\bin\Debug\Ankatask array.exe.config
+C:\Users\muhar\source\repos\Ankatask array\Ankatask array\bin\Debug\Ankatask array.exe
+C:\Users\muhar\source\repos\Ankatask array\Ankatask array\bin\Debug\Ankatask array.pdb
+C:\Users\muhar\source\repos\Ankatask array\Ankatask array\obj\Debug\Ankatask array.csproj.AssemblyReference.cache
+C:\Users\muhar\source\repos\Ankatask array\Ankatask array\obj\Debug\Ankatask array.csproj.CoreCompileInputs.cache
+C:\Users\muhar\source\repos\Ankatask array\Ankatask array\obj\Debug\Ankatask array.exe
+C:\Users\muhar\source\repos\Ankatask array\Ankatask array\obj\Debug\Ankatask array.pdb
